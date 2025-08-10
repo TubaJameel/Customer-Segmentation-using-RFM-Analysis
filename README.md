@@ -1,6 +1,8 @@
 Customer Segmentation using RFM Analysis
 This project performs customer segmentation on retail data using the RFM (Recency, Frequency, Monetary) model. It helps identify and classify customers into segments for targeted marketing strategies.
 
+Dataset link:https://archive.ics.uci.edu/dataset/352/online+retail
+
 📊 Features
 Data preprocessing and cleaning.
 
