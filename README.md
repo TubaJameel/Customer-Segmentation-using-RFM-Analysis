@@ -37,3 +37,5 @@ Loyal – High-value frequent buyers.
 Regular – Steady customers with average spending.
 
 At Risk – Customers who haven’t purchased recently.
+
+At the end we have a csv file of data after REM Analaysis.
